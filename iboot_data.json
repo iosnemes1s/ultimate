@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-21T18:46:44Z",
+  "generated_at": "2026-10-27T15:32:18Z",
   "source": "theapplewiki.com/wiki/IBoot_(Bootloader) - iOS/iPadOS table",
   "description": "Map iBoot/mBoot -> iOS/iPadOS, restricted to iOS 11+ and [26, 27].",
   "lookup_order": [
@@ -9,7 +9,7 @@
     "longest_prefix",
     "family_prefix"
   ],
-  "count": 620,
+  "count": 633,
   "mappings": [
     {
       "iboot": "iBoot-3974~299",
@@ -2712,6 +2712,11 @@
       "build": "22H374"
     },
     {
+      "iboot": "iBoot-11881.140.96.700.4~2",
+      "ios": "18.7.11",
+      "build": "22H384"
+    },
+    {
       "iboot": "iBoot-13822.0.166.0.1~29",
       "ios": "26.0",
       "build": "23A5276f"
@@ -3047,6 +3052,21 @@
       "build": "23H24"
     },
     {
+      "iboot": "iBoot-13822.120.5~2408 mBoot-18000.162.10.700.1",
+      "ios": "26.7.1",
+      "build": "23H30"
+    },
+    {
+      "iboot": "iBoot-13822.120.5~2492 mBoot-18000.162.10.701.5",
+      "ios": "26.7.2",
+      "build": "23H127"
+    },
+    {
+      "iboot": "iBoot-13822.120.5~2492 mBoot-18000.162.10.701.5",
+      "ios": "26.7.2",
+      "build": "23H128"
+    },
+    {
       "iboot": "iBoot-15376~13347 mBoot-20356.0.0.502.1",
       "ios": "27.0",
       "build": "24A5355q"
@@ -3097,6 +3117,16 @@
       "build": "24A5430a"
     },
     {
+      "iboot": "iBoot-15387~29064 mBoot-20457.2.37",
+      "ios": "27.0.1",
+      "build": "24A446"
+    },
+    {
+      "iboot": "iBoot-15387~43031 mBoot-20457.12.1",
+      "ios": "27.1",
+      "build": "24A94425"
+    },
+    {
       "iboot": "iBoot-15389~3015 mBoot-20457.40.144",
       "ios": "27.2",
       "build": "24B5084k"
@@ -3105,6 +3135,41 @@
       "iboot": "iBoot-15390~1615 mBoot-20457.40.150.0.1",
       "ios": "27.2",
       "build": "24B5089g"
+    },
+    {
+      "iboot": "iBoot-15391~1589 mBoot-20457.42.5",
+      "ios": "27.2",
+      "build": "24B115"
+    },
+    {
+      "iboot": "iBoot-15391~1589 mBoot-20457.42.5",
+      "ios": "27.2",
+      "build": "24B119"
+    },
+    {
+      "iboot": "iBoot-15391~1590 mBoot-20457.42.4",
+      "ios": "27.2",
+      "build": "24B5110a"
+    },
+    {
+      "iboot": "iBoot-15391~1592 mBoot-20457.42.5",
+      "ios": "27.2",
+      "build": "24B8120"
+    },
+    {
+      "iboot": "iBoot-15391~1757 mBoot-20457.52.7",
+      "ios": "27.2",
+      "build": "24B91016"
+    },
+    {
+      "iboot": "iBoot-15391~1757 mBoot-20457.52.7",
+      "ios": "27.2",
+      "build": "24B91020"
+    },
+    {
+      "iboot": "iBoot-15391~734 mBoot-20457.40.172.502.1",
+      "ios": "27.2",
+      "build": "24B5099f"
     }
   ]
 }
