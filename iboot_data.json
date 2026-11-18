@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-27T15:32:18Z",
+  "generated_at": "2026-11-18T07:32:16Z",
   "source": "theapplewiki.com/wiki/IBoot_(Bootloader) - iOS/iPadOS table",
   "description": "Map iBoot/mBoot -> iOS/iPadOS, restricted to iOS 11+ and [26, 27].",
   "lookup_order": [
@@ -9,7 +9,7 @@
     "longest_prefix",
     "family_prefix"
   ],
-  "count": 633,
+  "count": 640,
   "mappings": [
     {
       "iboot": "iBoot-3974~299",
@@ -2717,6 +2717,11 @@
       "build": "22H384"
     },
     {
+      "iboot": "iBoot-11881.140.96.700.4~2",
+      "ios": "18.7.12",
+      "build": "22H390"
+    },
+    {
       "iboot": "iBoot-13822.0.166.0.1~29",
       "ios": "26.0",
       "build": "23A5276f"
@@ -3067,6 +3072,11 @@
       "build": "23H128"
     },
     {
+      "iboot": "iBoot-13822.120.5~2514 mBoot-18000.162.10.701.5",
+      "ios": "26.7.3",
+      "build": "23H131"
+    },
+    {
       "iboot": "iBoot-15376~13347 mBoot-20356.0.0.502.1",
       "ios": "27.0",
       "build": "24A5355q"
@@ -3170,6 +3180,31 @@
       "iboot": "iBoot-15391~734 mBoot-20457.40.172.502.1",
       "ios": "27.2",
       "build": "24B5099f"
+    },
+    {
+      "iboot": "iBoot-15391~1971 mBoot-20457.42.5",
+      "ios": "27.2.1",
+      "build": "24B156"
+    },
+    {
+      "iboot": "iBoot-15391~1972 mBoot-20457.42.5",
+      "ios": "27.2.1",
+      "build": "24B8156"
+    },
+    {
+      "iboot": "iBoot-15391~2016 mBoot-20457.52.7",
+      "ios": "27.2.1",
+      "build": "24B91034"
+    },
+    {
+      "iboot": "iBoot-15394.60.1~580 mBoot-20457.60.77.0.2",
+      "ios": "27.3",
+      "build": "24C5049d"
+    },
+    {
+      "iboot": "iBoot-15394~8754 mBoot-20457.60.65.502.1",
+      "ios": "27.3",
+      "build": "24C5037i"
     }
   ]
 }
